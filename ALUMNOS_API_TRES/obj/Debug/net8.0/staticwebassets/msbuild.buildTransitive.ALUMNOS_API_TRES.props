@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\ALUMNOS_API_TRES.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ALUMNOS_API_TRES.props" />
+</Project>

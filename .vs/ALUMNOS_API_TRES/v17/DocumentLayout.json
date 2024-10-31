@@ -1,0 +1,190 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\repositories\\impl\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\repositories\\impl\\alumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\config\\impl\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\config\\impl\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\controllers\\alumnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\services\\interfaces\\ialumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\services\\interfaces\\ialumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\services\\impl\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\services\\impl\\alumnoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\models\\alumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\repositories\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\repositories\\interfaces\\ialumnorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|c:\\users\\usuario\\source\\repos\\alumnos_api_tres\\alumnos_api_tres\\config\\interfaces\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5099B7EF-188B-4ABB-AE97-75602B2FBD9B}|ALUMNOS_API_TRES\\ALUMNOS_API_TRES.csproj|solutionrelative:alumnos_api_tres\\config\\interfaces\\idatabaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\appsettings.json",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\appsettings.json",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\appsettings.json",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-31T07:31:50.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AlumnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Services\\Impl\\AlumnoService.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Services\\Impl\\AlumnoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Services\\Impl\\AlumnoService.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Services\\Impl\\AlumnoService.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAUwCQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:04:08.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IAlumnoService.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Services\\Interfaces\\IAlumnoService.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Services\\Interfaces\\IAlumnoService.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Services\\Interfaces\\IAlumnoService.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Services\\Interfaces\\IAlumnoService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:32:14.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Repositories\\Interfaces\\IAlumnoRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:31:42.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Repositories\\Impl\\AlumnoRepository.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Repositories\\Impl\\AlumnoRepository.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Repositories\\Impl\\AlumnoRepository.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Repositories\\Impl\\AlumnoRepository.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFQAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T04:31:16.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Config\\Impl\\DatabaseConnection.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Config\\Impl\\DatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Config\\Impl\\DatabaseConnection.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Config\\Impl\\DatabaseConnection.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAwAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:03:29.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Program.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Program.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Program.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Program.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T02:59:35.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AlumnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Controllers\\AlumnosController.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Controllers\\AlumnosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Controllers\\AlumnosController.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Controllers\\AlumnosController.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAiwD0AAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T07:13:19.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IDatabaseConnection.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Config\\Interfaces\\IDatabaseConnection.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Config\\Interfaces\\IDatabaseConnection.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Config\\Interfaces\\IDatabaseConnection.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Config\\Interfaces\\IDatabaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:40:09.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Alumnos.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Models\\Alumnos.cs",
+              "RelativeDocumentMoniker": "ALUMNOS_API_TRES\\Models\\Alumnos.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\ALUMNOS_API_TRES\\ALUMNOS_API_TRES\\Models\\Alumnos.cs",
+              "RelativeToolTip": "ALUMNOS_API_TRES\\Models\\Alumnos.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T03:00:48.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

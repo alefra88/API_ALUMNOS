@@ -1,0 +1,6 @@
+@ALUMNOS_API_TRES_HostAddress = http://localhost:5009
+
+GET {{ALUMNOS_API_TRES_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
